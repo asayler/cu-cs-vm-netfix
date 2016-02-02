@@ -45,7 +45,7 @@ the [PLA help hours](https://foundation.cs.colorado.edu/la/).
 
 ## Post Fix Guide ##
 
-Eventually Ubuntu will fix this issues upstream, at which point anyone
+Eventually Ubuntu will fix this issue upstream, at which point anyone
 who applied the above fix should run:
 
 ```
